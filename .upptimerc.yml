@@ -22,8 +22,12 @@ status-website:
   navbar:
     - title: Status
       href: /upptime
+    - title: UptimeFlare
+      href: https://uptime.repo.plus/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Plus Repo
+      href: https://repo.plus
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
