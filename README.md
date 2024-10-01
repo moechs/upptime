@@ -21,7 +21,7 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://uptime.repo.plus)
+[**Visit our status website →**](https://moechs.github.io/upptime)
 
 ## 📄 License
 
