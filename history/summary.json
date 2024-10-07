@@ -4,19 +4,19 @@
     "url": "https://repo.plus",
     "icon": "https://icons.duckduckgo.com/ip3/repo.plus.ico",
     "slug": "plus-repo",
-    "status": "down",
-    "uptime": "98.43%",
-    "uptimeDay": "87.19%",
-    "uptimeWeek": "98.17%",
-    "uptimeMonth": "98.43%",
-    "uptimeYear": "98.43%",
-    "time": 1182,
-    "timeDay": 1158,
-    "timeWeek": 1167,
-    "timeMonth": 1182,
-    "timeYear": 1182,
+    "status": "up",
+    "uptime": "98.37%",
+    "uptimeDay": "86.72%",
+    "uptimeWeek": "98.10%",
+    "uptimeMonth": "98.37%",
+    "uptimeYear": "98.37%",
+    "time": 1192,
+    "timeDay": 1220,
+    "timeWeek": 1179,
+    "timeMonth": 1192,
+    "timeYear": 1192,
     "dailyMinutesDown": {
-      "2024-10-07": 184
+      "2024-10-07": 191
     }
   },
   {
